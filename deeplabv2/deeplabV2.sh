@@ -1,0 +1,1 @@
+/media/e/FrameWork/deeplab_v2/deeplab-public-ver2/build/tools/caffe.bin train --solver=./solver_train_aug.prototxt --gpu=0 --weights=./deeplab_iter_20000.caffemodel
